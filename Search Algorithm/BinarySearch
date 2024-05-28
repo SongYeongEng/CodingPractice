@@ -18,7 +18,7 @@ public class BinarySearch {
                 left = middle + 1;
             } else {
                 // If target is smaller, ignore right half
-                right = middle - 1;
+                right
             }
         }
 
